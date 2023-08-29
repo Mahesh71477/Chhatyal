@@ -1,0 +1,50 @@
+*{
+  margin: 0;
+  padding: 0;
+  color: white;
+  font: 10px;
+}
+body{
+  width: 800px;
+  height: 800px;
+}
+
+
+.a{
+  height: 60px;
+  
+  background-color: black;
+  
+}
+button{
+  background-color: yellow;
+  border: 1px black;
+  border-radius: 5px;
+  color: black;
+}
+button:active{
+  boder: 2px solid red;
+  background-color: beige;
+  
+  
+}
+#logo{
+  color: yellow;
+  margin-right: 5%;
+  font-size: 25px;
+  
+  
+}
+.b{
+ 
+}
+input{
+  
+  outline: 1px solid black;
+  padding: 4px;
+}
+a{
+  margin: 0 50px 0 50px;
+}
+
+

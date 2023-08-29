@@ -1,0 +1,75 @@
+*{
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+  background-color: darkslategrey;
+  
+  
+}
+.a{
+  border: none;
+  background-color: aqua;
+  font-size: 150%;
+  postion: absolute;
+  left: 10%;
+  
+}
+.b{
+  position: absolute;
+  left: 1%;
+  top: 1%;
+  background-color: aqua;
+  width: 80px;
+  height: 300px;
+  
+  
+  
+}
+.b{
+  border-bottom-right-radius: 20px;
+  
+  
+  
+  
+}
+.a:hover{
+  color: chartreuse;
+  
+  
+}
+
+button{
+  border: none;
+  background-color: aqua;
+  
+  
+  
+  
+}
+button:active{
+  background-color: red;
+  position: absolute;
+  left: 20%;
+  font-size: 73%;
+  color: darkgray;
+  
+}
+.aa{
+  position: absolute;
+  left: 100px;
+  outline-color: 1px solid black;
+  
+  
+  
+  
+}
+.b{
+  border-width: 200px;
+  width: 100px;
+}
+
+
+  
+  
+
