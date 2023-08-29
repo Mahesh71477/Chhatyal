@@ -1,0 +1,96 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body{
+  display: flex;
+  background: #23242e;
+  
+}
+.box{
+  position: absolute;
+  height: 400px;
+  width: 250px;
+  
+  background: #222;
+  top: 125px;
+  left: 50px;
+  
+}
+h2{
+  position: relative;
+  text-align: center;
+  top: 50px;
+  color: aqua;
+  
+}
+.inputbox{
+  position: relative;
+  top: 50px;
+  left: 20px;
+  height: 40%;
+  background-color: : #222;
+  width: 20%;
+  color: beige;
+  border-bottom: 1px solid red;
+  outline: none;
+  
+  
+  
+}
+.m{
+  height: 50px;
+  text-align: 1px;
+  background: #222;
+  border: none;
+  
+}
+
+span{
+  position: relative;
+  top: -19px;
+  
+}
+ .n:after{
+  position: absolute;
+  top: -30;
+  
+}
+
+
+
+
+
+.x{
+  position: relative;
+  top: 100px;
+  font-size: 9px;
+  left: 20px;
+  color: darkgray;
+  
+}
+.y{
+  position: relative;
+  top: 100px; 
+  left: 90px;
+  font-size: 9px;
+  color: darkgrey;
+  
+  
+  
+}
+.z{
+  position: relative;
+  top: 110px; 
+  left: 20px;
+  width: 200px;
+  height: 40px;
+  
+  
+}
+
+
+
+

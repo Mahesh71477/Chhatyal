@@ -1,0 +1,44 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  color: azure;
+  
+  
+}
+body{
+  width: 200px;
+  
+  
+}
+.c{
+  position: relative;
+  
+  background-color: black;
+  
+  
+}
+  
+
+.b{
+  height: 60px;
+  background-color: black;
+  
+  
+}
+button{
+  background-color: yellow;
+  border: 1px solid black;
+  border-radius: 4px;
+  color: black;
+}
+input{
+  border: 1px solid black;
+  outline: 1px solid black;
+  color: black;
+}
+
+  
+  
+}
+
